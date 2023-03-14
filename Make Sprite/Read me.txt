@@ -1,0 +1,13 @@
+/* 
+ * Autor: Erivelto Clénio da Costa e Silva
+ * Data última actualização: 02/03/2023
+ * 
+ * Objectivo do Programa: Fazer um programa que:
+ *  1-carrega quatro imagens,
+ *  2-retira o fundos das quatro imagens com base numa cor definido como cor a remover,
+ *  3-inverte as quatro imagens (efeito espelho)
+ *  4-cria uma nova imagem que contem dentro de si as outras quatro com as alterações efectuadas
+ *  5-guarda essa nova imagem como imagemFinal.png
+ */
+
+Arquivo principal---> MakeSprite.java
