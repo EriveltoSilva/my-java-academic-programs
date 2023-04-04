@@ -27,7 +27,7 @@ public class BackgroundRemover extends JFrame{
     int frameHeight = 800;
     final String imagePath ="Sirene.png";
     final String finalImagePath ="SireneFinal.png";
-    final Color backColor = new Color(255,255,255);// White color
+    final Color backColor = new Color(0,0,0);// White color
     
     public BackgroundRemover()
     {
@@ -46,7 +46,7 @@ public class BackgroundRemover extends JFrame{
         super.paint(g);
         Graphics2D g2d = (Graphics2D) g;
         BufferedImage img = null;
-        int margemPrecisao = 50;
+        int margemPrecisao = 95;
         try {
             img = ImageIO.read(new File(imagePath));
         } catch (IOException ex) {
