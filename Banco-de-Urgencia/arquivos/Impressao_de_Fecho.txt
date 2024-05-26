@@ -1,0 +1,29 @@
+---------Ficha de Fecho do Dia Tue Feb 13 22:25:11 GMT 2024--------
+
+--------------Lista de Elementos Atendidos------------------------------
+1.-------------Registro de Pacientes Atendidos---------------
+-------------Registro do Pagamento---------------
+-------------Dados do Rastreio do Paciente---------------
+-------------Dados de Registro do Paciente---------------
+Nome do Paciente............:Roberto Firmino
+BI do Paciente..............:000000000LA001
+Idade do Paciente...........:29
+Morada do Paciente..........:Rangel
+Data da Entrada na Clinica..:Tue Feb 13 22:18:35 GMT 2024
+
+Temperatura do Paciente.......:46.0
+Peso do Paciente..............:75.0
+Pressao Arterial do Paciente..:102.0
+Estado do Paciente............:Moderado
+
+Valor do Pagamento:............:125000.0
+-------------Dados Registro do Medico---------------
+Nome do Medico......................:Lukenia Tainara
+Especializacao do Medico............:Dentista
+BI do Medico......................:null
+Idade do Medico...................:0
+Morada do Medico..................:null
+
+
+
+		Processado pelo software do..:ECCS
